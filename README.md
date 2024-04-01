@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bringmeabagelnow
+- 👋 Hi, I’m @bringmebagelnow
 - 👀 I’m interested
 - 🌱 I’m currently learning!
 - 💞️ I’m not looking to collaborate
